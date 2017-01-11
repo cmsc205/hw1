@@ -1,0 +1,112 @@
+---
+title: "Homework 1"
+output: html_notebook
+---
+
+Complete the following exercises by Friday, January 13 at 11:59 p.m. Please submit the assignment on GitHub.
+
+## Your Name
+
+## Loading packages
+
+1.  Load the `tidyverse` in the code chunk below.
+
+```{r}
+# SOLUTION:
+```
+
+* * *
+
+## Manipulating vectors
+
+The `letters` vector is a vector of all lowercase letters of the alphabet.
+
+2.  Determine the length of the `letters` vector.
+
+```{r}
+# SOLUTION:
+```
+
+
+3.  Select the 13th letter of the alphabet.
+
+```{r}
+# SOLUTION:
+```
+
+
+4.  Select the 17th through 21st letters of the alphabet.
+
+```{r}
+# SOLUTION:
+```
+
+
+* * * 
+
+## Applying functions to vectors
+
+Define the vector `x` to have values 3.2,  9.1,  4.3,  3.6,  8.9 (in that order).
+
+
+5.  Create the vector `x`.
+
+```{r}
+# SOLUTION:
+```
+
+
+6. Run the command `floor(x)`. Show the output and explain the behavior of the function in your own words.
+
+```{r}
+# SOLUTION:
+```
+
+
+7. Run the command `celing(x)`. Show the output and explain the behavior of the function in your own words.
+
+```{r}
+# SOLUTION:
+```
+
+
+8.  Run the command `round(x)`. Show the output and explain the behavior of the function in your own words.
+
+```{r}
+# SOLUTION:
+```
+
+
+9.  Run the command `abs(x)`. Show the output and explain the behavior of the function in your own words.
+
+```{r}
+# SOLUTION:
+```
+
+
+10. Run the command `min(x)`. Show the output and explain the behavior of the function in your own words.
+
+```{r}
+# SOLUTION:
+```
+
+
+11. Run the command `max(x)`. Show the output and explain the behavior of the function in your own words.
+
+```{r}
+# SOLUTION:
+```
+
+
+12. Run that command `which.min(x)`. Show the output and explain the behavior of the function in your own words.
+
+```{r}
+# SOLUTION:
+```
+
+
+13. Run the command `which.max(x)`. Show the output and explain the behavior of the function in your own words.
+
+```{r}
+# SOLUTION:
+```
