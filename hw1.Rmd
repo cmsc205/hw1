@@ -63,7 +63,7 @@ Define the vector `x` to have values 3.2,  9.1,  4.3,  3.6,  8.9 (in that order)
 ```
 
 
-7. Run the command `celing(x)`. Show the output and explain the behavior of the function in your own words.
+7. Run the command `ceiling(x)`. Show the output and explain the behavior of the function in your own words.
 
 ```{r}
 # SOLUTION:
